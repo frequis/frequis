@@ -15,7 +15,9 @@ Eu nasci no Rio de Janeiro em 09/12/2005, onde morei a maior parte da minha vida
 - 🎬 Adoro cinema brasileiro e internacional
   
 > Contato
-- frexlipe@gmail.com
+
+frexlipe@gmail.com
 
 > Buddy
+
 [GitHub do Fernando](https://github.com/fnandomachado)
