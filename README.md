@@ -1,16 +1,16 @@
-## Hi there 👋
+>Quem é Felipe Viana
 
-<!--
-**frequis/frequis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]
+> Fatos sobre mim
 
-Here are some ideas to get you started:
+- Estudante de Ciência da Computação no Inteli
+- Entusiasta de Jogos Eletrônicos
+- Gosto de literatura
+- Fanboy de cultura japonesa
+- Curto um bom e velho Rock 'N Roll
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Contato
+- frexlipe@gmail.com
+
+> Buddy
+[GitHub do Fernando](https://github.com/fnandomachado)
