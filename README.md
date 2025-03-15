@@ -2,7 +2,7 @@
 
 >Quem é Felipe Viana
 
-Eu nasci no Rio de Janeiro em 09/12/2005, onde morei a maior parte da minha vida, mas também na cidade de São Paulo onde conheci muitos amigos. Uma peculiaridade minha foi ter mudado de escolas muitas vezes, o que me ajudou a desenvolver uma habilidade de adaptação. Inclusive uma delas, em Petrópolis, era um internato onde eu passava a semana inteira longe de casa. Com isso ganhei autonomia e uma noção de viver sem apoio dos meus pais. Apesar de todas as dificuldades no processo que eu passei no internato, acredito que tudo leve a algum aprendizado e por isso sou grato. Com resiliência as pessoas superam qualquer desafio!
+Nascido no Rio de Janeiro em 09/12/2005, morei a maior parte da vida lá e também em São Paulo, onde fiz muitos amigos. Mudei de escola várias vezes, o que me ajudou a desenvolver adaptabilidade. Uma delas foi um internato em Petrópolis, onde passei semanas longe de casa, ganhando autonomia e aprendendo a viver sem o apoio dos meus pais. Apesar das dificuldades, acredito que cada experiência traz aprendizado e sou grato por isso. Com resiliência, superamos qualquer desafio!
 
 > [!NOTE]
 > Fatos sobre mim
