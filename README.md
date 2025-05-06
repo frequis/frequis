@@ -1,23 +1,47 @@
-![the-book-of-boba-fett-rodian](https://github.com/user-attachments/assets/9fc5fd12-711e-4444-9f75-15e1ab017062)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d3463a0-2675-422b-9de9-fc0513228a38" alt="SWclean" width="600" />
+</p>
 
->Quem é Felipe Viana
+<h1 align="center">Fala aí! Eu sou o Felipe Viana</h1>
 
-Nascido no Rio de Janeiro em 09/12/2005, morei a maior parte da vida lá e também em São Paulo, onde fiz muitos amigos. Mudei de escola várias vezes, o que me ajudou a desenvolver adaptabilidade. Uma delas foi um internato, onde passei semanas longe de casa, ganhando autonomia e aprendendo a viver sem o apoio dos meus pais. Apesar das dificuldades, acredito que cada experiência traz aprendizado e sou grato por isso. Com resiliência, superamos qualquer desafio!
+<p align="center">
+  <img src="https://img.shields.io/badge/Gamer%20Mode%20On-9146FF?style=for-the-badge&logo=gamepad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inteli%20Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rock%20'n'%20Roll🤘-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Livros%20%26%20Mangás📚-orange?style=for-the-badge" />
 
-> [!NOTE]
-> Fatos sobre mim
+<p align="center">🚀 May the Force be with you</p>
 
-- 💻 Estudante de Ciência da Computação no Inteli
-- 🎮 Entusiasta de Jogos Eletrônicos
-- 📖 Gosto de literatura
-- 👺 Fanboy de cultura japonesa
-- ☠️ Curto um bom e velho Rock 'N Roll
-- 🎬 Adoro cinema brasileiro e internacional
-  
-> Contato
+</p>
 
-frexlipe@gmail.com
+---
 
-> Buddy
+### 🧠 Quem sou eu?
 
-[GitHub do Fernando](https://github.com/fnandomachado)
+Sou Felipe Viana, nascido no Rio de Janeiro em 09/12/2005. Ao longo da vida, morei tanto no Rio quanto em São Paulo, o que me proporcionou diferentes vivências e amizades. Troquei de escola diversas vezes, o que desenvolveu minha capacidade de adaptação a novos ambientes.
+
+Tive a experiência de estudar em um internato, onde aprendi a lidar com a distância da família, desenvolvendo autonomia e responsabilidade desde cedo. Acredito que cada desafio contribui para o crescimento pessoal e profissional, e levo comigo a ideia de que **resiliência** é essencial para seguir evoluindo.
+
+---
+
+### 🔍 Alguns fatos aleatórios sobre mim:
+
+- 💻 Estudante de Ciência da Computação no **Inteli**
+- 📚 Curto um bom livro (vale até mangá)
+- 👺 Entusiasta da cultura japonesa
+- 🎮 Viciado em jogos (Na base de energético)
+- 🤘 Rock 'N Roll na veia
+- 🎥 Cinéfilo (Só que legal)
+
+---
+
+### 📬 Bora trocar uma ideia?
+
+📧 felipe.viana@sou.inteli.edu.br
+
+---
+
+### 🤝 Buddy
+
+Conheça meu buddy:  
+[👉 GitHub do Fernando](https://github.com/fnandomachado)
