@@ -38,6 +38,7 @@ Tive a experiência de estudar em um internato, onde aprendi a lidar com a dist�
 ### 📬 Bora trocar uma ideia?
 
 📧 felipe.viana@sou.inteli.edu.br
+https://www.linkedin.com/in/felipe-viana-7120b1279/
 
 ---
 
